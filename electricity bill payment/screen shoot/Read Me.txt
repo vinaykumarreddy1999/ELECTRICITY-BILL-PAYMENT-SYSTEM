@@ -1,0 +1,25 @@
+This project is develop for educational purpose only, this is a full working project.
+also this project showe how to pay Electricity Bill online. so the user won't have to visit his respective location
+Example like payment With credit or debit card or online service like paytm or paypal, also this project have only the basic functionality.
+All function and ideas are from my own only. this project can be made into an adavnce project by providing a full functionality.
+
+Process: 
+1. A User have to login in with aCustomer ID 
+(username: 793001
+2. there's a menu (Details, Pay, Logout)
+
+Project
+1. Unzip the file
+2. copy the folder and paste it in your local server directory (example in wamp: www (Folder))
+3. open browser type localhost or your respective port and you will get the file
+But first you have to upload the database
+
+Database
+1. Open phpmyadmin
+2. create a database call electribill
+3. import the database (electribill.sql) to your newly created database.
+ Note: you might have to edit the connect.php file if you have a password in your phpmyadmin.
+
+thanks
+regard
+Donbok Kharkongor
